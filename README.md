@@ -1,6 +1,10 @@
 # Sign-up-Form
 A simple user registration form built using HTML, CSS, and JavaScript.
 
+# Screenshot
+
+![](./screenshot.jpg)
+
 ## What Project Does
 With the registration form, the user can:
 - Enter their first name, last name, email address, phone number, and password.
